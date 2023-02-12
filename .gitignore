@@ -1,2 +1,7 @@
 client/node_modules
 client/package-lock.json
+src/assets/logo1.jpeg
+        src/assets/logo2.png
+        src/assets/logo3.png
+        src/assets/myLogo.jpeg
+        src/components/
